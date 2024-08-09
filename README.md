@@ -10,13 +10,13 @@ Here you'll find projects using various technologies, such as:
 - JavaScript
 - React
 
-## Project links
+## Project Links
 
-Below are the links to each project contained in this repository::
+Below are the links to each project contained in this repository. Each project has an associated live version hosted on GitHub Pages:
 
-- [alura-midi](https://github.com/onogabriela/codeJourney/tree/main/alura-midi), [access the project link](https://onogabriela.github.io/codeJourney/alura-midi)
-- [background-generator](https://github.com/onogabriela/codeJourney/tree/main/background-generator), [access the project link](https://onogabriela.github.io/codeJourney/background-generator)
-- [devlinks](https://github.com/onogabriela/codeJourney/tree/main/devlinks), [access the project link](https://onogabriela.github.io/codeJourney/devlinks)
-- [jogo-do-numero-secreto-updated](https://github.com/onogabriela/codeJourney/tree/main/jogo-do-numero-secreto-updated), [access the project link](https://onogabriela.github.io/codeJourney/jogo-do-numero-secreto-updated)
-- [jogo-do-numero-secreto](https://github.com/onogabriela/codeJourney/tree/main/jogo-do-numero-secreto), [access the project link](https://onogabriela.github.io/codeJourney/jogo-do-numero-secreto)
-- [the-blue-robot](https://github.com/onogabriela/codeJourney/tree/main/the-blue-robot), [access the project link](https://onogabriela.github.io/codeJourney/the-blue-robot)
+- [Alura MIDI](https://github.com/onogabriela/codeJourney/tree/main/alura-midi) - [View Live](https://onogabriela.github.io/codeJourney/alura-midi/)
+- [Background Generator](https://github.com/onogabriela/codeJourney/tree/main/background-generator) - [View Live](https://onogabriela.github.io/codeJourney/background-generator/)
+- [DevLinks](https://github.com/onogabriela/codeJourney/tree/main/devlinks) - [View Live](https://onogabriela.github.io/codeJourney/devlinks/)
+- [Secret Number Game (Updated)](https://github.com/onogabriela/codeJourney/tree/main/jogo-do-numero-secreto-updated) - [View Live](https://onogabriela.github.io/codeJourney/jogo-do-numero-secreto-updated/)
+- [Secret Number Game](https://github.com/onogabriela/codeJourney/tree/main/jogo-do-numero-secreto) - [View Live](https://onogabriela.github.io/codeJourney/jogo-do-numero-secreto/)
+- [The Blue Robot](https://github.com/onogabriela/codeJourney/tree/main/the-blue-robot) - [View Live](https://onogabriela.github.io/codeJourney/the-blue-robot/)
