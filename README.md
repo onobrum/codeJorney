@@ -1,4 +1,8 @@
-# 🧠 Learning Projects Repository
+# 🧠 codeJourney
+
+Welcome to my learning projects repository!
+
+## About
 
 This repository organizes some of the projects I develop during my programming learning process. Each folder represents a different project where I improve my skills.
 
