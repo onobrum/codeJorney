@@ -24,3 +24,4 @@ Below are the links to each project contained in this repository. Each project h
 - [Jogo do Numero Secreto (Updated)](https://github.com/onogabriela/codeJourney/tree/main/jogo-do-numero-secreto-updated) - [View Live](https://onogabriela.github.io/codeJourney/jogo-do-numero-secreto-updated/)
 - [Jogo do Numero Secreto](https://github.com/onogabriela/codeJourney/tree/main/jogo-do-numero-secreto) - [View Live](https://onogabriela.github.io/codeJourney/jogo-do-numero-secreto/)
 - [The Blue Robot](https://github.com/onogabriela/codeJourney/tree/main/the-blue-robot) - [View Live](https://onogabriela.github.io/codeJourney/the-blue-robot/)
+- [Fokus](https://github.com/onogabriela/codeJourney/tree/main/fokus) - [View Live](https://onogabriela.github.io/codeJourney/fokus/)
