@@ -1,0 +1,32 @@
+@use '../abstract/variaveis';
+@use '../abstract/mixins';
+
+footer {
+    background: variaveis.$cor-quaternaria;
+    padding: 2rem;
+    text-align: center;
+    margin-top: 5rem;
+    @include mixins.ff-fs-cl(variaveis.$ft-textos, 1rem, variaveis.$cor-primaria);
+}
+
+/* SCSS vs. SASS como extensão de arquivo, exemplo: "_footer.scss" "_footer.sass".
+ - O SCSS é semelhante ao CSS tradicional, usando chaves e ponto e vírgula.
+ - Já o SASS, chamada de "sintaxe recuada", sem chaves e ponto e vírgula.
+
+Exemplo SCSS:
+
+.botao {
+    background-color: #fff;
+     &:hover {
+         background-color: #000;
+     }
+ }
+
+ Exemplo SASS:
+
+ .botao
+     background-color: #fff
+     &:hover
+         background-color: #000
+
+ - Não é recomendado, mas ambos podem ser usados no mesmo projeto.*/

@@ -1,0 +1,12 @@
+@mixin margem-central($width){
+    margin: 0 auto;
+    width: $width;
+}
+@mixin ff-fs-cl($f-family, $f-size, $f-color){
+    font-family: $f-family;
+    font-size: $f-size;
+    color: $f-color;
+}
+
+/* Mixins são blocos de estilos CSS reutilizáveis que podem ser incluídos em diferentes seletores. */
+
