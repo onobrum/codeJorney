@@ -20,6 +20,7 @@ Below are the links to each project contained in this repository. Each project h
 
 - [Alura MIDI](https://github.com/onogabriela/codeJourney/tree/main/alura-midi) - [View Live](https://onogabriela.github.io/codeJourney/alura-midi/)
 - [Background Generator](https://github.com/onogabriela/codeJourney/tree/main/background-generator) - [View Live](https://onogabriela.github.io/codeJourney/background-generator/)
+- [Calmaria SPA](https://github.com/onogabriela/codeJourney/tree/main/calmaria-spa) - [View Live](https://onogabriela.github.io/codeJourney/calmaria-spa/)
 - [DevLinks](https://github.com/onogabriela/codeJourney/tree/main/devlinks) - [View Live](https://onogabriela.github.io/codeJourney/devlinks/)
 - [Jogo do Numero Secreto (Updated)](https://github.com/onogabriela/codeJourney/tree/main/jogo-do-numero-secreto-updated) - [View Live](https://onogabriela.github.io/codeJourney/jogo-do-numero-secreto-updated/)
 - [Jogo do Numero Secreto](https://github.com/onogabriela/codeJourney/tree/main/jogo-do-numero-secreto) - [View Live](https://onogabriela.github.io/codeJourney/jogo-do-numero-secreto/)
