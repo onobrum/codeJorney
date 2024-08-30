@@ -6,6 +6,8 @@ Welcome to my learning projects repository!
 
 This repository organizes some of the projects I developed during my learning process. **The projects here remain true to the originals provided by the platforms and courses I use to enhance my skills**. To access projects created by me or with significant modifications from the originals, please visit my other repositories.
 
+You can also check out my [exercises](https://github.com/onogabriela/exercises) repository!
+
 ## 🛠️ Technologies
 
 Here you'll find projects using various technologies, such as:
