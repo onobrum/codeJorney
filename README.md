@@ -1,12 +1,9 @@
 # Code Journey
 
-Welcome to my learning projects repository!
+This repository organizes some of the projects I develop during my learning process. The projects here remain true to the originals provided by the platforms and courses I use to enhance my skills. To explore codes I have created myself or those that have featured significant modifications from the originals, please visit my other repositories.
 
-## 📝 About
+You can also check out my [exercises](https://github.com/onogabriela/programming-exercises) and my [codewars-solutions](https://github.com/onogabriela/codewars-solutions) to track my progress in studying.
 
-This repository organizes some of the projects I developed during my learning process. **The projects here remain true to the originals provided by the platforms and courses I use to enhance my skills**. To access projects created by me or with significant modifications from the originals, please visit my other repositories.
-
-You can also check out my [exercises](https://github.com/onogabriela/exercises).
 
 ## 🛠️ Technologies
 
